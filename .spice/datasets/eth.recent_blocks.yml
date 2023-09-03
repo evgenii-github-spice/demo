@@ -1,5 +1,5 @@
 name: eth.recent_blocks
-description: datasets demo
+description: datasets demo updated
 type: append
 firecache:
   enabled: true
